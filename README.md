@@ -1,4 +1,4 @@
-#Documentation Related to the Stream Gold Token
+# Documentation Related to the Stream Gold Token
 
 
 ### The Stream Gold Token
